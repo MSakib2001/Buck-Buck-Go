@@ -78,7 +78,7 @@ Watch a short hardware walk‑through and gameplay clip [here](https://msadmansa
 
 ## Contributors
 
-* **M. Sadman Sakib** – Memory controller, VPU, system integration
+* **M Sadman Sakib** – Memory controller, VPU, system integration
 * **Rohan Rao** – VPU design, code integration, graphics
 * **Aditi Shah** – CPU bring‑up, audio subsystem
 * **Asish Das** – Software tooling, speech‑to‑text exploration
